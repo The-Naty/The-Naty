@@ -1,6 +1,6 @@
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-naty" alt="the-naty" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-naty&theme=onedark" alt="the-naty" /></a> </p>
 
 - 🔭 I’m currently working on [insta-clone](https://github.com/The-Naty/Insta-clone.git)
 
