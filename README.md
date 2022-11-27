@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-naty&theme=onedark" alt="the-naty" /></a> </p>
 
-- 🔭 I’m currently working on [insta-clone](https://github.com/The-Naty/Insta-clone.git)
+- 🔭 I’m currently working on [insta-clone](https://github.com/The-Naty/Insta-clone.git) project
 
 - 🌱 I’m currently learning **Database architectures**
 
