@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **youssef-el-zanaty@outlook.com**
 
-- 📄 Know about my experiences [linkedin.com/in/youssef-zanaty/](linkedin.com/in/youssef-zanaty/)
+- 📄 Know about my experiences https://www.linkedin.com/in/youssef-zanaty/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
